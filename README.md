@@ -16,3 +16,28 @@ Clona el repositorio usando el siguiente comando:
 
 ```bash
 git clone https://github.com/PaulinaMales/PruebaPracticaRefactorStudio.git
+
+#### Paso 2: Descomprimir el archivo zip
+Ingresar a la carpeta demo
+```bash
+cd demo
+
+#### Paso 3: Ejecutar el proyecto
+```bash
+mvn spring-boot:run
+
+### **2. Levantar el FrontEnd (Angular)**
+#### Paso 1: Acceder a la carpeta del front
+```bash
+cd front
+
+#### Paso 2:  Ejecutar el Frontend
+```bash
+ng serve
+
+### **PRUEBAS**
+Ingresar al servidor de desarrollo de Angular
+```bash
+http://localhost:4200
+
+
